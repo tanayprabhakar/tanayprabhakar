@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Tanay Prabhakar</h1>
+<h3 align="center">I am an AI enthusiast and finance enthusiast. </h3>
+
+- 🔭 I’m in my Fisrt year in B.Tech CSE in UPES, Dehradun.
+- 🌱 I’m presently learning Web Developement
+- 💬My hobbies are travelling and reading books.
+
+- ⚡ Fun fact about me :   *I like hiphop music*
+
