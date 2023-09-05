@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am an AI enthusiast and finance enthusiast. </h3>
 
 - 🔭 I’m in my First year in B.Tech CSE in UPES, Dehradun.
-- 🌱 I’m presently learning Web Developement
+- 🌱 I’m presently learning Web Developement.
 - 💬My hobbies are travelling and reading books.
 
 - ⚡ Fun fact about me :   *I like hiphop music*
