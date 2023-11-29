@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanay Prabhakar</h1>
 <h3 align="center">An AI and Finance enthusiast</h3>
-- 🌱 I’m presently learning **Web Developement88
+- 🌱 I’m presently learning **Web Developement**
 
 - 📫 How to reach me **tanayprabhakar10@gmail.com**
 
